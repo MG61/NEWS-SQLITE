@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">News_SQLite</string>
+    <string-array name="auth">
+        <item>Администратор</item>
+        <item>Читатель</item>
+    </string-array>
+</resources>
